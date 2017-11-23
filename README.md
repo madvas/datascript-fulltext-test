@@ -1,14 +1,7 @@
-# datascript-fulltext
+Just a playground app for testing [datascript](https://github.com/tonsky/datascript) fulltext search approaches. 
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+```
+lein repl
+(start-server!)
+node dev-server/datascript-fulltext 
+```
